@@ -1,10 +1,10 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.emixa.zaalreserveringen.acc",
+    "appIdentifier": "com.emixa.zaalreserveringen",
     "appName": "Emixa zaalreserveringen",
     "bundleName": {
-        "main": "EmixaZaalresACC",
-        "dev": "EmixaZaalresDev"
+        "main": "Emixapp",
+        "dev": "EmixappDev"
     },
     "deviceTarget": {
         "phone": false,
@@ -122,7 +122,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.3.0",
-    "buildNumber": 1,
+    "appVersion": "0.5.0",
+    "buildNumber": 5,
     "runtimeUrl": "https://magnustraining-sandbox.mxapps.io/"
 }
