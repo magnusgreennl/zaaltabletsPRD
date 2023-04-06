@@ -1,0 +1,5 @@
+{
+    "@react-native-community/netinfo": "5.9.7",
+    "react-native-action-button": "2.8.5",
+    "react-native-webview": "11.2.1"
+}
