@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": true
         }
-    }
+    },
+    "appVersion": "0.2.1",
+    "buildNumber": 2,
+    "runtimeUrl": "https://magnustraining-sandbox.mxapps.io/"
 }
