@@ -1,18 +1,18 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.emixatraining.acc",
-    "appName": "Emixa Zaalreserveringen",
+    "appIdentifier": "com.emixa.trainingsapp.acc",
+    "appName": "Emixa Training UAT",
     "bundleName": {
-        "main": "MagnusTraining",
-        "dev": "MagnusTrainiDev"
+        "main": "Emixapp",
+        "dev": "EmixappDev"
     },
     "deviceTarget": {
-        "phone": false,
-        "tablet": true
+        "phone": true,
+        "tablet": false
     },
     "orientation": {
-        "portrait": false,
-        "landscape": true
+        "portrait": true,
+        "landscape": false
     },
     "permissions": [
         {
@@ -121,8 +121,5 @@
         "nativeOTA": {
             "enabled": true
         }
-    },
-    "appVersion": "1.0.2",
-    "buildNumber": 1,
-    "runtimeUrl": "https://magnustraining-sandbox.mxapps.io/"
+    }
 }
